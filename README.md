@@ -15,9 +15,7 @@ The goals / steps of this project are the following:
 * Suggest possible improvements to my pipeline
 
 
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
+Please find all outputs of the project in the *test_images_output* and *test_videos_output* including the output challenge video.
 
 ---
 
